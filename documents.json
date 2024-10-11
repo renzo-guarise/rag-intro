@@ -1,0 +1,27 @@
+[
+  {
+    "subject": "3ng-tech",
+    "documents": [
+      {
+        "text": "Hacen soluciones de IA y Datos",
+        "section": "3ng-tech",
+        "question": "Que hace 3ng-tech?"
+      },
+      {
+        "text": "La de Lucas trubiano, Democratizando los datos",
+        "section": "3ng-tech",
+        "question": "Cual fue la mejor charla del andes?"
+      },
+      {
+        "text": "Si",
+        "section": "Andes festival",
+        "question": "Estuvo 3ng tech en Andes Festival?"
+      },
+      {
+        "text": "Lucas Flores, el ceo",
+        "section": "3ng-tech",
+        "question": "Quien es el mas feo de 3ng?"
+      }
+    ]
+  }
+]
