@@ -1,26 +1,46 @@
 [
   {
-    "subject": "3ng-tech",
+    "subject": "Andes Festival",
     "documents": [
       {
-        "text": "Hacen soluciones de IA y Datos",
-        "section": "3ng-tech",
-        "question": "Que hace 3ng-tech?"
+        "text": "Mauro Rosales Tema: CI/CD en Acción Lautaro Celedon Tema: ¿Cómo protegemos nuestra red? Carlos Dugarte Tema: Pagos instantáneos y soberanía: Bitcoin, Lightning Network y Nostr Zahira Manzur Tema: Código sin código, el nuevo paradigma del desarrollo Carlos Quiroga Tema: Agentes de IA y LegalTech: De los Modelos de Lenguaje a Soluciones Reales en el Ámbito Legal Lucas Trubiano Tema: ¿Tus datos trabajan mientras vos dormís? ",
+        "section": "Andes Festival",
+        "question": "Cuales son las charlas que se van a dar en el andes festival?"
       },
       {
-        "text": "La de Lucas trubiano, Democratizando los datos",
-        "section": "3ng-tech",
-        "question": "Cual fue la mejor charla del andes?"
+        "text": "El Andes Festival se llevará a cabo el 10 de mayo de 2025.",
+        "section": "Andes Festival",
+        "question": "Cuando es el andes festival?"
       },
       {
-        "text": "Si",
-        "section": "Andes festival",
-        "question": "Estuvo 3ng tech en Andes Festival?"
+        "text": "Mauro Rosales presentará la charla 'CI/CD en Acción' en la Sala Secundaria.",
+        "section": "Andes Festival",
+        "question": "¿Qué tema va a presentar Mauro Rosales en el Andes Festival?"
       },
       {
-        "text": "Lucas Flores, el ceo",
-        "section": "3ng-tech",
-        "question": "Quien es el mas feo de 3ng?"
+        "text": "Lautaro Celedon hablará sobre seguridad de redes con la charla '¿Cómo protegemos nuestra red?'.",
+        "section": "Andes Festival",
+        "question": "¿De qué trata la charla de Lautaro Celedon?"
+      },
+      {
+        "text": "Carlos Dugarte expondrá sobre pagos descentralizados con Bitcoin, Lightning Network y Nostr.",
+        "section": "Andes Festival",
+        "question": "¿Qué tecnologías abordará Carlos Dugarte en su charla?"
+      },
+      {
+        "text": "Zahira Manzur hablará sobre el paradigma del desarrollo sin código con su charla 'Código sin código, el nuevo paradigma del desarrollo'.",
+        "section": "Andes Festival",
+        "question": "¿Cuál es el tema principal de la charla de Zahira Manzur?"
+      },
+      {
+        "text": "Carlos Quiroga presentará sobre IA y LegalTech, enfocándose en modelos de lenguaje aplicados al ámbito legal.",
+        "section": "Andes Festival",
+        "question": "¿Qué aplicación de la IA va a abordar Carlos Quiroga?"
+      },
+      {
+        "text": "Lucas Trubiano dará la charla '¿Tus datos trabajan mientras vos dormís?' sobre análisis y automatización de datos en tiempo real.",
+        "section": "Andes Festival",
+        "question": "¿Qué temática abordará Lucas Trubiano en su presentación?"
       }
     ]
   }
